@@ -1,5 +1,5 @@
 # AvaxGods-
 [AvaxGods live](https://avaxgods-nft-game.netlify.app/)
 
-## If don't want to use CORE wallet then can watch the video :: 
+## Don't want to use CORE wallet , watch the video :: 
 [AvaxGods video](https://drive.google.com/file/d/1Ur2eFN37U0iFaPWIH3qpsLxg60oJX_x4/view?usp=sharing)
